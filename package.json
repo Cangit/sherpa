@@ -11,6 +11,7 @@
   ],
   "repository": "cangit/sherpa",
   "type": "module",
+  "exports": "./index.js",
   "dependencies": {
     "debug": "^4.3.3",
     "finalhandler": "~1.1.2",
