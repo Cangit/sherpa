@@ -38,7 +38,7 @@ Sherpa is a simple framework to glue together various "middleware" to handle req
 ### Install Sherpa
 
 ```sh
-$ pnpm add cangit/sherpa
+$ pnpm add github:cangit/sherpa
 ```
 
 ### Use middleware
