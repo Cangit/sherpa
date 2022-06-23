@@ -1,3 +1,7 @@
+# 0.9.1 / 2022-06-23
+
+- deps: refresh
+
 # 0.9.0 / 2022-01-25
 
 - ending support for node version < 14
